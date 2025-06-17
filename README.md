@@ -4,9 +4,9 @@
 ## 👤 Información del Alumno
 
 ### 📋 Datos Personales
-- **Nombre y Apellido**: 
+- **Nombre y Apellido**: Sturniolo Bautista
 - **Ciclo Lectivo**: 2025
-- **Carrera**: 
+- **Carrera**: Ing Informatica
 
 ## ⏰ Información Importante sobre la Entrega
 

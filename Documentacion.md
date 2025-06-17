@@ -1,3 +1,9 @@
+### 📋 Datos Personales
+- **Nombre y Apellido**: Sturniolo Bautista
+- **Ciclo Lectivo**: 2025
+- **Carrera**: Ing Informatica
+
+
 # Sistema de Gestión de Clínica
 
 Este proyecto implementa un sistema de gestión médica para una clínica, permitiendo administrar pacientes, médicos, turnos, recetas y sus historias clínicas a través de una interfaz de consola.
